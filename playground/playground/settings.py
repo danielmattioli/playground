@@ -55,7 +55,7 @@ ROOT_URLCONF = 'playground.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["C:/Users/Alberto/Documents/Curso coderHouse/Practicas de python/django/clase 19 playground/playground/Appcoder/template"],
+        'DIRS': ["C:/Users/Alberto/Documents/Curso coderHouse/Practicas de python/django/clase 19 playground/playground/Appcoder/template/Appcoder"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
